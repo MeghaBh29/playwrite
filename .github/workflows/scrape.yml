@@ -28,4 +28,3 @@ jobs:
       # ⬇️ THIS step must have your email in the name (required by the assignment)
       - name: Run Playwright scraper - 21f1000341@ds.study.iitm.ac.in
         run: node scrape.js
-```
